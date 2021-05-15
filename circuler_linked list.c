@@ -77,8 +77,7 @@ void beginsert()
         ptr->next = head;  
         head = ptr;  
         printf("\nNode inserted");  
-    }  
-      
+    }      
 }  
 void lastinsert()  
 {  
